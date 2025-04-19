@@ -1,5 +1,7 @@
 # CompTIA-Improving-Network-Security
 
+Completed a hands-on module focused on foundational network security practices. Exercises included identifying common network security threats, updating antimalware signatures to ensure up-to-date protection, and working with Snort, a popular open-source network intrusion detection system (NIDS), to monitor and analyze network traffic.
+
 ![image alt](https://github.com/user-attachments/assets/574b887a-0079-416d-bcf1-6450cd2b445c)
 
 talk about having to make a note of the last time the windows defender made an update
