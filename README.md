@@ -8,7 +8,8 @@ Completed a practical module focused on core network security skills.
 Key exercises included:
 
    - Using Windows Defender to check for the last antimalware definition update and manually initiating an update to ensure the system was protected with the latest definitions.
-![image alt]()
+![image alt](!https://github.com/user-attachments/assets/fb0b67a1-66bb-4162-82a1-b848595952bb)
+
 
 talk about now youve moved onto the next task dowloading Snort which is a Snort is an open-source package that has the capability of intrusion detection system (IDS) and intrusion prevention system (IPS). and how you are going to modify the rules and confirgure the app or whatever it is for use presumably [maybe sentence can be split into 2 different points as i have 2 screenshots at different stages at this moment in time
 
