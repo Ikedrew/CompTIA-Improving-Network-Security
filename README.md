@@ -7,7 +7,7 @@ Completed a hands-on module focused on foundational network security practices. 
 Completed a practical module focused on core network security skills.
 Key exercises included:
 
-   - Using Windows Defender to check for the last antimalware definition update and manually initiating an update to ensure the system was protected with the latest definitions.
+- Using Windows Defender to check for the last antimalware definition update and manually initiating an update to ensure the system was protected with the latest definitions.
 ![image alt](!https://github.com/user-attachments/assets/fb0b67a1-66bb-4162-82a1-b848595952bb)
 
 
