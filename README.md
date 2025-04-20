@@ -15,6 +15,7 @@ Key exercises included:
 ![image alt]()
 
 - Opened the Command Line Interface (CLI) to begin configuring Snort for IDS functionality.
+![image alt](https://github.com/user-attachments/assets/b8841b74-b18d-4e02-8bf9-a922972b48d8)
 ![image alt]()
 
 - Navigated to the Snort directory in File Explorer to set up key configuration components. Created and organized blacklist and whitelist folders, including the corresponding .txt files.
