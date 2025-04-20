@@ -20,7 +20,8 @@ Key exercises included:
 
 
 - Navigated to the Snort directory in File Explorer to set up key configuration components. Created and organized blacklist and whitelist folders, including the corresponding .txt files.
-![image alt]()
+![image alt](https://github.com/user-attachments/assets/38c7438b-7123-41d1-aff8-9281f0c7b012)
+
 
 - Used Notepad and the Find and Replace function to update rule paths and file references in Snort’s configuration files.
 ![image alt]()
