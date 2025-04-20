@@ -21,13 +21,15 @@ Key exercises included:
 
 - Navigated to the Snort directory in File Explorer to set up key configuration components. Created and organized blacklist and whitelist folders, including the corresponding .txt files.
 ![image alt](https://github.com/user-attachments/assets/38c7438b-7123-41d1-aff8-9281f0c7b012)
-
+![image alt](https://github.com/user-attachments/assets/235c5bf3-9e85-4300-a69d-69aca5dd3b82)
 
 - Used Notepad and the Find and Replace function to update rule paths and file references in Snort’s configuration files.
-![image alt]()
+![image alt](https://github.com/user-attachments/assets/1e56ea7b-a420-4a2e-8123-8c3587143ae4)
+![image alt](https://github.com/user-attachments/assets/91a2a542-4560-4e4c-97b3-22b424fdcd31)
 
 - Returned to the CLI to complete the setup, verify configurations, and run Snort with the updated rules and settings.
-![image alt]()
+![image alt](https://github.com/user-attachments/assets/4cda9e5b-d862-4cd5-b353-ef61e9f029d2)
+![image alt](https://github.com/user-attachments/assets/e10eeab4-3a4c-46b7-9ce5-d7766fd49a42)
 
 ✔️ Setup complete and ready for use in monitoring network traffic.
 
