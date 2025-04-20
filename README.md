@@ -12,12 +12,11 @@ Key exercises included:
 ![image alt](https://github.com/user-attachments/assets/c6964f01-97f3-405a-956d-31a10d1a395f)
 
 - Downloaded and installed Snort from the official website, then ran and saved the program locally.
-![image alt]()
+![image alt](https://github.com/user-attachments/assets/4fe8dc79-8e92-49af-8504-dd3a276f48d1)
 
 - Opened the Command Line Interface (CLI) to begin configuring Snort for IDS functionality.
 ![image alt](https://github.com/user-attachments/assets/b8841b74-b18d-4e02-8bf9-a922972b48d8)
 ![image alt](https://github.com/user-attachments/assets/d21df484-b089-4343-a0da-ca2711944a02)
-
 
 - Navigated to the Snort directory in File Explorer to set up key configuration components. Created and organized blacklist and whitelist folders, including the corresponding .txt files.
 ![image alt](https://github.com/user-attachments/assets/38c7438b-7123-41d1-aff8-9281f0c7b012)
@@ -33,4 +32,4 @@ Key exercises included:
 
 ✔️ Setup complete and ready for use in monitoring network traffic.
 
-![image alt]()
+
